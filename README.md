@@ -12,3 +12,12 @@ This project may eventually extend into multiple other projects as the backbone 
 
 This project is built in collaboration with [Carla Napier](https://github.com/carlanapier)
 
+### Todo
+
+ - Initialize docker environment
+ - Network node/python images in docker
+ - Proxy Next requests through Django API's
+ - Build testing for Db calls 
+ - Ensure django endpoints are not accessible
+ - Schema postgreSQL tables for application
+
